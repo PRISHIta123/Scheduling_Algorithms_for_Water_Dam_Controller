@@ -1,0 +1,450 @@
+
+
+Interaction : 0 
+
+
+Timesteps: 0 Rewards: -0.025501620398195625
+Timesteps: 1 Rewards: -0.0006347569090400276
+Timesteps: 2 Rewards: -0.009297185218371098
+Timesteps: 3 Rewards: -0.019755342676324426
+Timesteps: 4 Rewards: -0.224732201071007
+Timesteps: 5 Rewards: -0.017527222932010523
+Timesteps: 6 Rewards: -0.0859709583275237
+Timesteps: 7 Rewards: -0.0150009261548006
+Timesteps: 8 Rewards: -0.012378430777832267
+Timesteps: 9 Rewards: -0.10956981994010398
+Timesteps: 10 Rewards: -0.03019804263626757
+Timesteps: 11 Rewards: -0.025769046684103954
+Timesteps: 12 Rewards: -0.04041491447252355
+Timesteps: 13 Rewards: -0.009865865840854115
+Timesteps: 14 Rewards: -0.026578787682802557
+Timesteps: 15 Rewards: -0.009072731765091626
+Timesteps: 16 Rewards: -0.17688743117839625
+Timesteps: 17 Rewards: -0.0023605062044396814
+Timesteps: 18 Rewards: -0.11617063668510487
+Timesteps: 19 Rewards: -0.027696119768915416
+Timesteps: 20 Rewards: -0.0001441120756991165
+Timesteps: 21 Rewards: -0.11468804872776676
+Timesteps: 22 Rewards: -0.05421542745186713
+Timesteps: 23 Rewards: -0.01791312884338509
+Timesteps: 24 Rewards: -0.10810055237755332
+
+
+Interaction : 1 
+
+
+Timesteps: 0 Rewards: -0.0023935449307576056
+Timesteps: 1 Rewards: -0.005707765797719353
+Timesteps: 2 Rewards: -0.00018149964160017902
+Timesteps: 3 Rewards: -0.06264670717927777
+Timesteps: 4 Rewards: -0.10671116744874823
+Timesteps: 5 Rewards: -0.007355592609501801
+Timesteps: 6 Rewards: -0.01966618571603615
+Timesteps: 7 Rewards: -0.08212769586722744
+Timesteps: 8 Rewards: -0.2629583019483088
+Timesteps: 9 Rewards: -0.21180109171660372
+Timesteps: 10 Rewards: -0.044556614964381645
+Timesteps: 11 Rewards: -2.719250617669962e-07
+Timesteps: 12 Rewards: -0.016781252101902334
+Timesteps: 13 Rewards: -0.05765224947755986
+Timesteps: 14 Rewards: -0.007865259884172535
+Timesteps: 15 Rewards: -0.06680428040201918
+Timesteps: 16 Rewards: -0.07661241330346881
+Timesteps: 17 Rewards: -4.391247826405409e-05
+Timesteps: 18 Rewards: -0.053885482861160704
+Timesteps: 19 Rewards: -0.07922623585720091
+Timesteps: 20 Rewards: -0.08933705466501649
+Timesteps: 21 Rewards: -0.20405800757363018
+Timesteps: 22 Rewards: -0.03510336949084958
+Timesteps: 23 Rewards: -0.0889713527129981
+Timesteps: 24 Rewards: -0.03221603570111297
+
+
+Interaction : 2 
+
+
+Timesteps: 0 Rewards: -2.7241084647631575e-05
+Timesteps: 1 Rewards: -0.0036797933995809406
+Timesteps: 2 Rewards: -9.265056184705163e-06
+Timesteps: 3 Rewards: -0.002485500402884144
+Timesteps: 4 Rewards: -0.03521123533569885
+Timesteps: 5 Rewards: -0.0037748693674306065
+Timesteps: 6 Rewards: -0.020131039245482506
+Timesteps: 7 Rewards: -0.047150407992698345
+Timesteps: 8 Rewards: -0.010668124062327316
+Timesteps: 9 Rewards: -0.016509646256043464
+Timesteps: 10 Rewards: -0.0658149155351403
+Timesteps: 11 Rewards: -0.023548514847461215
+Timesteps: 12 Rewards: -0.01587926828465402
+Timesteps: 13 Rewards: -0.015044597283897326
+Timesteps: 14 Rewards: -1.631916198844967e-05
+Timesteps: 15 Rewards: -0.00020746580082098471
+Timesteps: 16 Rewards: -0.016726686294541132
+Timesteps: 17 Rewards: -0.6129738717026475
+Timesteps: 18 Rewards: -0.09843187205932304
+Timesteps: 19 Rewards: -0.0007565058025244282
+Timesteps: 20 Rewards: -0.8254973625981944
+Timesteps: 21 Rewards: -0.0038255111200117494
+Timesteps: 22 Rewards: -0.0008385642924417768
+Timesteps: 23 Rewards: -2.73458675532896e-05
+Timesteps: 24 Rewards: -0.05038152529501684
+
+
+Interaction : 3 
+
+
+Timesteps: 0 Rewards: -0.10108423381674654
+Timesteps: 1 Rewards: -0.001466488372849596
+Timesteps: 2 Rewards: -0.07979834359069762
+Timesteps: 3 Rewards: -0.08482718934072753
+Timesteps: 4 Rewards: -0.030069424199444042
+Timesteps: 5 Rewards: -0.41648321974064
+Timesteps: 6 Rewards: -0.02070224931365924
+Timesteps: 7 Rewards: -0.012868843115950497
+Timesteps: 8 Rewards: -0.04380568194267364
+Timesteps: 9 Rewards: -0.00012336616119813676
+Timesteps: 10 Rewards: -0.014066314306106246
+Timesteps: 11 Rewards: -0.00419495345983441
+Timesteps: 12 Rewards: -0.05452502470654743
+Timesteps: 13 Rewards: -0.020374023953392426
+Timesteps: 14 Rewards: -0.02113857699725976
+Timesteps: 15 Rewards: -0.06700452950543036
+Timesteps: 16 Rewards: -0.10216823214224828
+Timesteps: 17 Rewards: -0.03826805123114171
+Timesteps: 18 Rewards: -0.013842177000756122
+Timesteps: 19 Rewards: -0.021237891591742154
+Timesteps: 20 Rewards: -0.0011520528855570302
+Timesteps: 21 Rewards: -0.055148070868958565
+Timesteps: 22 Rewards: -1.248302304245521e-05
+Timesteps: 23 Rewards: -0.0010587395408848165
+Timesteps: 24 Rewards: -0.22864117915253382
+
+
+Interaction : 4 
+
+
+Timesteps: 0 Rewards: -0.05322483211504445
+Timesteps: 1 Rewards: -0.013886866292439423
+Timesteps: 2 Rewards: -0.026227389549704036
+Timesteps: 3 Rewards: -0.003964637725499525
+Timesteps: 4 Rewards: -0.09431731539088999
+Timesteps: 5 Rewards: -0.06669355471396529
+Timesteps: 6 Rewards: -4.942657120783274e-05
+Timesteps: 7 Rewards: -0.06424616737495763
+Timesteps: 8 Rewards: -0.023158168321240943
+Timesteps: 9 Rewards: -0.020374854285511904
+Timesteps: 10 Rewards: -0.025952982161671138
+Timesteps: 11 Rewards: -0.055434812850925524
+Timesteps: 12 Rewards: -0.006394031389437298
+Timesteps: 13 Rewards: -0.02502965857322513
+Timesteps: 14 Rewards: -0.05718694786447118
+Timesteps: 15 Rewards: -0.02153946424081212
+Timesteps: 16 Rewards: -0.05383208687453656
+Timesteps: 17 Rewards: -0.11333301029966074
+Timesteps: 18 Rewards: -0.032396091798039144
+Timesteps: 19 Rewards: -0.00940030278386873
+Timesteps: 20 Rewards: -0.07346196309713383
+Timesteps: 21 Rewards: -0.09906216899580737
+Timesteps: 22 Rewards: -0.038561073381516583
+Timesteps: 23 Rewards: -0.01904813142024278
+Timesteps: 24 Rewards: -0.04627996232821071
+
+
+Interaction : 5 
+
+
+Timesteps: 0 Rewards: -0.5938045186157528
+Timesteps: 1 Rewards: -0.02659934562175507
+Timesteps: 2 Rewards: -0.01054705671443409
+Timesteps: 3 Rewards: -0.026023723693319244
+Timesteps: 4 Rewards: -0.08800372014697505
+Timesteps: 5 Rewards: -0.00019846341453057037
+Timesteps: 6 Rewards: -0.04936145441842457
+Timesteps: 7 Rewards: -0.033951939040857824
+Timesteps: 8 Rewards: -0.33526286759144097
+Timesteps: 9 Rewards: -0.09700857179247313
+Timesteps: 10 Rewards: -0.0015391817955683247
+Timesteps: 11 Rewards: -0.00029019777330005904
+Timesteps: 12 Rewards: -0.0003801521890036109
+Timesteps: 13 Rewards: -0.05816170152642171
+Timesteps: 14 Rewards: -0.02458339304797687
+Timesteps: 15 Rewards: -0.015589385485284643
+Timesteps: 16 Rewards: -0.14141431031549606
+Timesteps: 17 Rewards: -0.07243498285012201
+Timesteps: 18 Rewards: -1.9532396460659016e-05
+Timesteps: 19 Rewards: -0.47870072397355234
+Timesteps: 20 Rewards: -0.005141614188351339
+Timesteps: 21 Rewards: -0.06092619408332492
+Timesteps: 22 Rewards: -0.06179377446391719
+Timesteps: 23 Rewards: -0.06145472934206541
+Timesteps: 24 Rewards: -0.001633151527331568
+
+
+Interaction : 6 
+
+
+Timesteps: 0 Rewards: -0.044592721001943884
+Timesteps: 1 Rewards: -0.05376999439440968
+Timesteps: 2 Rewards: -0.08881402583654614
+Timesteps: 3 Rewards: -0.009540754248898527
+Timesteps: 4 Rewards: -0.042794658958131754
+Timesteps: 5 Rewards: -0.07184951026806051
+Timesteps: 6 Rewards: -0.06341718382821267
+Timesteps: 7 Rewards: -0.5987192016154043
+Timesteps: 8 Rewards: -0.053310000975110225
+Timesteps: 9 Rewards: -0.0008190905048322474
+Timesteps: 10 Rewards: -0.009629532103398048
+Timesteps: 11 Rewards: -0.04011476191440672
+Timesteps: 12 Rewards: -0.001494763561475509
+Timesteps: 13 Rewards: -0.028549799609497845
+Timesteps: 14 Rewards: -0.02937093949923716
+Timesteps: 15 Rewards: -0.5911436514340229
+Timesteps: 16 Rewards: -1.8686917000253316e-05
+Timesteps: 17 Rewards: -0.1063740348107064
+Timesteps: 18 Rewards: -0.04274316414441085
+Timesteps: 19 Rewards: -0.0004099277117072723
+Timesteps: 20 Rewards: -0.022783173794361386
+Timesteps: 21 Rewards: -0.010203729859403743
+Timesteps: 22 Rewards: -5.658393549844436e-05
+Timesteps: 23 Rewards: -0.05004317093020701
+Timesteps: 24 Rewards: -0.09321807938373308
+
+
+Interaction : 7 
+
+
+Timesteps: 0 Rewards: -0.05014512925767903
+Timesteps: 1 Rewards: -0.008141563931056512
+Timesteps: 2 Rewards: -0.00020586853558059564
+Timesteps: 3 Rewards: -0.0022363510417251803
+Timesteps: 4 Rewards: -0.012750141053329531
+Timesteps: 5 Rewards: -0.07612477809619099
+Timesteps: 6 Rewards: -0.0007210518816850072
+Timesteps: 7 Rewards: -0.0026360053518531728
+Timesteps: 8 Rewards: -0.14412457018603395
+Timesteps: 9 Rewards: -0.01481794290341225
+Timesteps: 10 Rewards: -0.018040082619915
+Timesteps: 11 Rewards: -0.0031393527786343013
+Timesteps: 12 Rewards: -0.06091024555393355
+Timesteps: 13 Rewards: -0.00170284543450431
+Timesteps: 14 Rewards: -0.05509870558589472
+Timesteps: 15 Rewards: -0.015212696581216236
+Timesteps: 16 Rewards: -0.012949476512672274
+Timesteps: 17 Rewards: -0.09828485485550388
+Timesteps: 18 Rewards: -0.07800372699371977
+Timesteps: 19 Rewards: -0.01221137165426417
+Timesteps: 20 Rewards: -0.002319015334848261
+Timesteps: 21 Rewards: -0.0006137624243307841
+Timesteps: 22 Rewards: -0.00010244901188836201
+Timesteps: 23 Rewards: -0.0033769854692484065
+Timesteps: 24 Rewards: -0.07428479835026709
+
+
+Interaction : 8 
+
+
+Timesteps: 0 Rewards: -0.946494116242363
+Timesteps: 1 Rewards: -0.007992847770723135
+Timesteps: 2 Rewards: -0.04212823380456152
+Timesteps: 3 Rewards: -0.00012540529188878092
+Timesteps: 4 Rewards: -0.15920605698420787
+Timesteps: 5 Rewards: -0.10371987062347345
+Timesteps: 6 Rewards: -0.06253046946184213
+Timesteps: 7 Rewards: -0.02365567000461339
+Timesteps: 8 Rewards: -0.03031210546488277
+Timesteps: 9 Rewards: -0.09983490862579507
+Timesteps: 10 Rewards: -0.09100820083776173
+Timesteps: 11 Rewards: -1.4084005115684719e-05
+Timesteps: 12 Rewards: -0.14000634050112518
+Timesteps: 13 Rewards: -0.010121771710661878
+Timesteps: 14 Rewards: -0.037485383534925046
+Timesteps: 15 Rewards: -0.034208987703233565
+Timesteps: 16 Rewards: -0.11620722885857422
+Timesteps: 17 Rewards: -0.05268107179565796
+Timesteps: 18 Rewards: -0.001840036936622254
+Timesteps: 19 Rewards: -0.0026112511335435566
+Timesteps: 20 Rewards: -0.026888288738676602
+Timesteps: 21 Rewards: -0.036678651473589056
+Timesteps: 22 Rewards: -0.000391076456858731
+Timesteps: 23 Rewards: -0.09484066499633516
+Timesteps: 24 Rewards: -0.0001336828590556434
+
+
+Interaction : 9 
+
+
+Timesteps: 0 Rewards: -0.0049497167722708
+Timesteps: 1 Rewards: -0.05024702120027582
+Timesteps: 2 Rewards: -0.0002022032334205877
+Timesteps: 3 Rewards: -0.023868410198948965
+Timesteps: 4 Rewards: -0.12914887670899713
+Timesteps: 5 Rewards: -0.09186710500718744
+Timesteps: 6 Rewards: -0.01775829295035018
+Timesteps: 7 Rewards: -0.08164434189578784
+Timesteps: 8 Rewards: -0.010209396575787871
+Timesteps: 9 Rewards: -0.0001102316851905974
+Timesteps: 10 Rewards: -0.0017813169449649193
+Timesteps: 11 Rewards: -2.179710372770817e-05
+Timesteps: 12 Rewards: -0.0007575471696631683
+Timesteps: 13 Rewards: -0.00016211046882781062
+Timesteps: 14 Rewards: -0.10678088444121109
+Timesteps: 15 Rewards: -0.00964634148396743
+Timesteps: 16 Rewards: -0.002525224108041831
+Timesteps: 17 Rewards: -0.09041242527706682
+Timesteps: 18 Rewards: -0.011833979052996383
+Timesteps: 19 Rewards: -0.006640316729453164
+Timesteps: 20 Rewards: -0.008752874958700523
+Timesteps: 21 Rewards: -0.01779411426356862
+Timesteps: 22 Rewards: -0.12072658375680828
+Timesteps: 23 Rewards: -0.001920470002756306
+Timesteps: 24 Rewards: -0.0022235435142579757
+
+
+Interaction : 10 
+
+
+Timesteps: 0 Rewards: -0.0005354129394461053
+Timesteps: 1 Rewards: -0.005927167247560881
+Timesteps: 2 Rewards: -0.0817205568214127
+Timesteps: 3 Rewards: -0.04378187448591226
+Timesteps: 4 Rewards: -0.07454804628534566
+Timesteps: 5 Rewards: -0.05958149321055825
+Timesteps: 6 Rewards: -0.10005231062710891
+Timesteps: 7 Rewards: -0.019780611587843354
+Timesteps: 8 Rewards: -0.10198423418683743
+Timesteps: 9 Rewards: -0.0664415059518214
+Timesteps: 10 Rewards: -0.010257967341994672
+Timesteps: 11 Rewards: -0.0025931973402558194
+Timesteps: 12 Rewards: -0.018577440664078855
+Timesteps: 13 Rewards: -0.01251661003637829
+Timesteps: 14 Rewards: -0.032297841753646396
+Timesteps: 15 Rewards: -0.04138712311700378
+Timesteps: 16 Rewards: -5.606392299114556e-05
+Timesteps: 17 Rewards: -0.02292607741564031
+Timesteps: 18 Rewards: -0.0017939235566948512
+Timesteps: 19 Rewards: -0.0009341771807553535
+Timesteps: 20 Rewards: -0.021125396956175616
+Timesteps: 21 Rewards: -1.1889881304353659e-05
+Timesteps: 22 Rewards: -0.11280522474571385
+Timesteps: 23 Rewards: -0.07366820007919167
+Timesteps: 24 Rewards: -0.0013687332212081816
+
+
+Interaction : 11 
+
+
+Timesteps: 0 Rewards: -0.0006373175244304235
+Timesteps: 1 Rewards: -0.08583685047775237
+Timesteps: 2 Rewards: -0.03165291092230724
+Timesteps: 3 Rewards: -0.012265204361134902
+Timesteps: 4 Rewards: -0.22748523730196962
+Timesteps: 5 Rewards: -0.03866757474572823
+Timesteps: 6 Rewards: -0.026150802918197512
+Timesteps: 7 Rewards: -0.1498168920311388
+Timesteps: 8 Rewards: -0.008252182990115556
+Timesteps: 9 Rewards: -0.12181167583354467
+Timesteps: 10 Rewards: -0.06693169505308401
+Timesteps: 11 Rewards: -0.08955226148157504
+Timesteps: 12 Rewards: -0.08230930757534419
+Timesteps: 13 Rewards: -0.0002894698654840629
+Timesteps: 14 Rewards: -0.015807583740136463
+Timesteps: 15 Rewards: -0.0013884733274363934
+Timesteps: 16 Rewards: -0.06811158068155114
+Timesteps: 17 Rewards: -0.05039660144817023
+Timesteps: 18 Rewards: -0.01880950781150114
+Timesteps: 19 Rewards: -0.00993598130853247
+Timesteps: 20 Rewards: -0.10694383155147544
+Timesteps: 21 Rewards: -0.03086683941469972
+Timesteps: 22 Rewards: -0.053428075035245236
+Timesteps: 23 Rewards: -1.2111533839554904e-05
+Timesteps: 24 Rewards: -0.909701082531525
+
+
+Interaction : 12 
+
+
+Timesteps: 0 Rewards: -0.010869279592096217
+Timesteps: 1 Rewards: -0.017139806677687
+Timesteps: 2 Rewards: -0.15840044171538636
+Timesteps: 3 Rewards: -0.003672510467573038
+Timesteps: 4 Rewards: -0.0023228965948647977
+Timesteps: 5 Rewards: -0.05685519072646741
+Timesteps: 6 Rewards: -0.04156263288900567
+Timesteps: 7 Rewards: -0.05610546031108187
+Timesteps: 8 Rewards: -0.050989009209976836
+Timesteps: 9 Rewards: -0.09715102190014535
+Timesteps: 10 Rewards: -0.013515707163791954
+Timesteps: 11 Rewards: -0.07908078944569681
+Timesteps: 12 Rewards: -0.5954192909804106
+Timesteps: 13 Rewards: -0.00017755217984602713
+Timesteps: 14 Rewards: -0.009408582943229842
+Timesteps: 15 Rewards: -0.48978787383598
+Timesteps: 16 Rewards: -0.05459551533553295
+Timesteps: 17 Rewards: -0.03055552092541582
+Timesteps: 18 Rewards: -0.017884234375727764
+Timesteps: 19 Rewards: -0.17731730497908202
+Timesteps: 20 Rewards: -0.022050366494479345
+Timesteps: 21 Rewards: -0.00532903651232007
+Timesteps: 22 Rewards: -0.2136211234150347
+Timesteps: 23 Rewards: -0.05484355433891092
+Timesteps: 24 Rewards: -0.11433777052407074
+
+
+Interaction : 13 
+
+
+Timesteps: 0 Rewards: -0.0003481589195823105
+Timesteps: 1 Rewards: -0.08377018849957976
+Timesteps: 2 Rewards: -0.07253549416540077
+Timesteps: 3 Rewards: -0.01050187967569919
+Timesteps: 4 Rewards: -0.08938914003950671
+Timesteps: 5 Rewards: -0.357229211966824
+Timesteps: 6 Rewards: -0.0007172887245835856
+Timesteps: 7 Rewards: -0.06710830382451663
+Timesteps: 8 Rewards: -0.10966773956790214
+Timesteps: 9 Rewards: -0.007814733497689226
+Timesteps: 10 Rewards: -0.017264498014860935
+Timesteps: 11 Rewards: -0.0009266379342634627
+Timesteps: 12 Rewards: -0.11542353362822781
+Timesteps: 13 Rewards: -0.022071447170916796
+Timesteps: 14 Rewards: -0.4172280431096
+Timesteps: 15 Rewards: -0.013836233040485814
+Timesteps: 16 Rewards: -0.34362145674301253
+Timesteps: 17 Rewards: -0.005708801788618858
+Timesteps: 18 Rewards: -0.10119582781609494
+Timesteps: 19 Rewards: -0.0049047752689028975
+Timesteps: 20 Rewards: -0.03641609734687604
+Timesteps: 21 Rewards: -0.0030508621948010157
+Timesteps: 22 Rewards: -0.11077188685120933
+Timesteps: 23 Rewards: -0.08028667601597222
+Timesteps: 24 Rewards: -0.0016443224080551
+
+
+Interaction : 14 
+
+
+Timesteps: 0 Rewards: -0.013947553253902498
+Timesteps: 1 Rewards: -0.09599600739862423
+Timesteps: 2 Rewards: -0.03311432943756022
+Timesteps: 3 Rewards: -0.02618679249518466
+Timesteps: 4 Rewards: -0.08170398292787667
+Timesteps: 5 Rewards: -0.01175611685052968
+Timesteps: 6 Rewards: -0.06893925157071312
+Timesteps: 7 Rewards: -0.003992742609669536
+Timesteps: 8 Rewards: -0.005223614055823304
+Timesteps: 9 Rewards: -0.006246305260247262
+Timesteps: 10 Rewards: -0.07956018197211694
+Timesteps: 11 Rewards: -0.014704908283068628
+Timesteps: 12 Rewards: -0.025934657434704435
+Timesteps: 13 Rewards: -0.000321318181477809
+Timesteps: 14 Rewards: -0.03562248202480538
+Timesteps: 15 Rewards: -0.0020133447648048673
+Timesteps: 16 Rewards: -0.10337264215566816
+Timesteps: 17 Rewards: -0.0074918343235109855
+Timesteps: 18 Rewards: -0.24525994653478134
+Timesteps: 19 Rewards: -0.03327840524568079
+Timesteps: 20 Rewards: -0.07967073086743703
+Timesteps: 21 Rewards: -0.010215068455410203
+Timesteps: 22 Rewards: -0.061724888097062454
+Timesteps: 23 Rewards: -0.00024067481309139174
+Timesteps: 24 Rewards: -0.023765997296844463
