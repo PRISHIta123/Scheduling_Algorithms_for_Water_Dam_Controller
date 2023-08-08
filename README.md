@@ -1,6 +1,6 @@
 # Scheduling_Algorithms_for_Water_Dam_Controller
 
-This repository contains code for the paper: An Intelligent RL-based Scheduler to Control Flooding in a Renewable Energy powered Automatic Water Dam control system (P.Ray, G.B. Amali- IEEE International Conference on Artificial Intelligence & Green Energy, 2023)
+This repository contains code for the paper: An Intelligent RL-based Scheduler to Control Flooding in a Renewable Energy powered Automatic Water Dam control system (Prishita Ray, Geraldine Bessie Amali D.- IEEE International Conference on Artificial Intelligence & Green Energy, 2023)
 
 **Instructions to run:**  
 1. Clone the project repository by downloading the zip file above or by using:    
