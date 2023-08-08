@@ -2,7 +2,7 @@
 
 This repository contains code for the paper: An Intelligent RL-based Scheduler to Control Flooding in a Renewable Energy powered Automatic Water Dam control system (P.Ray, G.B. Amali- IEEE International Conference on Artificial Intelligence & Green Energy, 2023)
 
-** Instructions to run: **  
+**Instructions to run:**  
 1.Clone the project repository by downloading the zip file above or by using:    
 ```git clone https://github.com/PRISHIta123/Scheduling_Algorithms_for_Water_Dam_Controller.git```  
 2. Navigate to the folder for a specific algorithm (choose from SAC_ERE_PER, PPO and NES)- an example is provided below:  
