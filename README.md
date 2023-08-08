@@ -4,12 +4,13 @@ This repository contains code for the paper: An Intelligent RL-based Scheduler t
 
 **Instructions to run:**  
 1. Clone the project repository by downloading the zip file above or by using:    
-```git clone https://github.com/PRISHIta123/Scheduling_Algorithms_for_Water_Dam_Controller.git```  
-2. Navigate to the folder for a specific algorithm (choose from SAC_ERE_PER, PPO and NES)- an example is provided below:  
+```git clone https://github.com/PRISHIta123/Scheduling_Algorithms_for_Water_Dam_Controller.git```
+2. Install the requirements using ```pip install requirements.txt```
+3. Navigate to the folder for a specific algorithm (choose from SAC_ERE_PER, PPO and NES)- an example is provided below:  
 ```cd/src/SAC_ERE_PER```  
-3. Run the main python file  
+4. Run the main python file  
 ```python main.py```
-4. The algorithm-specific log files will be generated in the logs folder and the average rewards plot will be generated under the main plots folder.   
+5. The algorithm-specific log files will be generated in the logs folder and the average rewards plot will be generated under the main plots folder.   
 
 **To visualize more plots:** 
 1. Run ```python combined_plot.py``` to generate the combined average rewards plot for all three algorithms (make sure to add the rewards output by the codes after running to get the plots for yourself, current reward values provided are from the run on my system).   
